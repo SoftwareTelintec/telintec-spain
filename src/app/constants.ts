@@ -52,3 +52,5 @@ export const infoFooter = {
     phone: "+52 81 1167 5189",
   },
 };
+
+export const test = "test";
